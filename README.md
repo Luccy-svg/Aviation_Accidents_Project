@@ -45,6 +45,7 @@ Merged or created derived identifiers(Aircraft = Make + Model).
 Data was explored and patterns were created:
 #### Injury Analysis
 The analysis was done by Country, Aircraft Make/Model, Flight phase, Weather condition and Engine type.
+![Most used aircraft](')
 #### Trend Analysis
 The analysis was done by Yearly injuries(1990-2022), Top 5 Aircraft makes over time(injury trends acrss year).
 ## Summary
