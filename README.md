@@ -1,14 +1,14 @@
 # Phase 1 Project README.md
 ## Overview
-Data used was AviationData.csv. The data has an encoding of (windows-1252), with low_memory=false so as to prevent dtype misinfernce.
-The Event.Date was converted to datetime with error handling.
-The injury columns (Total.Fatal.Injuries, Total.Serious.Injuries, Total.Minor.Injuries) Was converted to numerical values.
-Total injuries computation was done by adding fatal,serious and minor injuries to give total_injuries.
-Created a combined Aircraft identifier, shown by (df['Aircraft'] = df['Make'].astype(str) + " " + df['Model'].astype(str)).
-Extracted accident Year from the Event.Date into a Years column.
-Computed top 10 countries with the highest total_injuries and displayed a horizintal bar chart, also , grouped Injuries by Make and Model.
-Identified the top 5 Aircraft makes with the highest total injuries and displayed injuries per time using bar charts or histograms.
-The trend was analyzed by filtering records from 1990 onwards and analyzed injuries per year per aicraft make to reveal safety improvements and risk patterns.
+Data used was 'AviationData.csv'. The data has an encoding of 'windows-1252', with low_memory=false so as to prevent dtype misinfernce.
+- The Event.Date was converted to datetime with error handling.
+- The injury columns (Total.Fatal.Injuries, Total.Serious.Injuries, Total.Minor.Injuries) Was converted to numerical values.
+- Total injuries computation was done by adding fatal,serious and minor injuries to give total_injuries.
+- Created a combined Aircraft identifier, shown by (df['Aircraft'] = df['Make'].astype(str) + " " + df['Model'].astype(str)).
+- Extracted accident Year from the Event.Date into a Years column.
+- Computed top 10 countries with the highest total_injuries and displayed a horizintal bar chart, also , grouped Injuries by Make and Model.
+- Identified the top 5 Aircraft makes with the highest total injuries and displayed injuries per time using bar charts or histograms.
+- The trend was analyzed by filtering records from 1990 onwards and analyzed injuries per year per aicraft make to reveal safety improvements and risk patterns.
 ## Business Understanding
 ### StakeHolders
 From the analysis done the stake holders are identified and their roles or intersts are shown as follows:
