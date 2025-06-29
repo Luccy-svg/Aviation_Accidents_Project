@@ -60,9 +60,10 @@ A small number of aircraft manufacturers, notably the top 5 makes(747-168 Boeing
 #### Flight phase matter:
 Most injuries occurred during Cruise, Takeoff, Maneuvering and Approach, indicating that these critical moments in flight are the most vulnerable to accidents — aligning with known aviation risk patterns.
 #### Engine Type matters:
-Most injuries occurred when using the Reciprcating Engine Type, indicating that this type of engine is bad or faulty and the Aircraft manufucturers should have them recalled or looked into.
+Most injuries occurred when using the Reciprocating Engine Type, indicating that this type of engine is bad or faulty and the Aircraft manufucturers should have them recalled or looked into.
 ### Final Insight:
 After filtering data from 1990- 2022, a slight decline in injury trends is observed for most top aircraft makes thus highlighting the impact of improved technology, training, and regulations over the last three decades.
-![Live Dashboard](https://public.tableau.com/app/profile/valerie.kigo/viz/TableauAviationAccidents/Dashboard1?publish=yes.png)
+
+[👉 View the Live Dashboard on Tableau](https://public.tableau.com/app/profile/valerie.kigo/viz/TableauAviationAccidents/Dashboard1?publish=yes)
 
 
