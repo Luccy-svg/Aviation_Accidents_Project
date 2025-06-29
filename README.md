@@ -63,6 +63,6 @@ Most injuries occurred during Cruise, Takeoff, Maneuvering and Approach, indicat
 Most injuries occurred when using the Reciprcating Engine Type, indicating that this type of engine is bad or faulty and the Aircraft manufucturers should have them recalled or looked into.
 ### Final Insight:
 After filtering data from 1990- 2022, a slight decline in injury trends is observed for most top aircraft makes thus highlighting the impact of improved technology, training, and regulations over the last three decades.
-
+![Live Dashboard](https://public.tableau.com/app/profile/valerie.kigo/viz/TableauAviationAccidents/Dashboard1?publish=yes)
 
 
