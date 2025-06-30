@@ -46,6 +46,7 @@ Data was explored and patterns were created:
 The analysis was done by Country, Aircraft Make/Model, Flight phase, Weather condition and Engine type.
 ![Total Injuries by Engine Type](images/Total_Injuries_by_Engine_Type.png)
 ![Most Used Aircraft](images/Most_Used_Aircraft.png)
+![Countires by total injuries](images/Countires_by_total_injuries)
 #### Trend Analysis
 The analysis was done by Yearly injuries(1990-2022), Top 5 Aircraft makes over time(injury trends acrss year).
 ![Total Aircraft Injuries per Year](images/Total_Aircraft_Injuries.png)
